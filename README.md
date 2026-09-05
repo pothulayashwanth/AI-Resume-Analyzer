@@ -418,7 +418,7 @@ If you find this project helpful, please give it a ⭐ on GitHub!
 
 ## 👥 Contributors
 
-- [Your Name](https://github.com/yashwanthpothula) - Creator & Maintainer
+- [Your Name](https://github.com/pothulayashwanth) - Creator & Maintainer
 
 ---
 
@@ -432,9 +432,9 @@ If you find this project helpful, please give it a ⭐ on GitHub!
 
 ## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yashwanthpothula/ai-resume-analyzer)
-![GitHub forks](https://img.shields.io/github/forks/yashwanthpothula/ai-resume-analyzer)
-![GitHub issues](https://img.shields.io/github/issues/yashwanthpothula/ai-resume-analyzer)
+![GitHub stars](https://img.shields.io/github/stars/pothulayashwanth/ai-resume-analyzer)
+![GitHub forks](https://img.shields.io/github/forks/pothulayashwanth/ai-resume-analyzer)
+![GitHub issues](https://img.shields.io/github/issues/pothulayashwanth/ai-resume-analyzer)
 
 ---
 
