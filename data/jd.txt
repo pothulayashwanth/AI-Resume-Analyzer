@@ -1,0 +1,18 @@
+Software Engineer Intern
+
+We are looking for a Software Engineer Intern with knowledge of Python,
+Java, Data Structures and Algorithms, SQL, Git, HTML, CSS and JavaScript.
+
+Responsibilities:
+- Develop and maintain software applications.
+- Write clean and efficient code.
+- Solve programming and algorithmic problems.
+- Work with databases and APIs.
+- Collaborate with development teams.
+
+Requirements:
+- Knowledge of Python or Java.
+- Understanding of Data Structures and Algorithms.
+- Knowledge of SQL and databases.
+- Basic web development knowledge.
+- Good problem-solving and communication skills.
